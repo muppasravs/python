@@ -1,0 +1,6 @@
+a=int(input())
+b=int(input())
+c=int(input())
+print(a/10)
+print(b*50)
+print(c+60)
